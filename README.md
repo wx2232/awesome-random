@@ -52,7 +52,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 - [Swift](https://developer.apple.com/swift/)
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-- https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
+- [github] https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
 
 ## Front-End Development
 
